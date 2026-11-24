@@ -1,0 +1,106 @@
+{
+ "versao": "full",
+ "min_pedidos": 300,
+ "painel": {
+  "faturamento_painel": 15735527.03,
+  "soma_planilha": 16465623.8
+ },
+ "respostas": {
+  "T1_linhas": {
+   "hash": "31d450384d5e5afcfea4a0d48ee96c9ee31d1b27d319de45a72ab3cadd1836bc",
+   "casas": 0
+  },
+  "T1_inicio": {
+   "hash": "b49a3b0b9bc5a9abdae4dcfcc33a354dfbef5cb75c475c3eb33ec553aa66ec00",
+   "casas": 0
+  },
+  "T1_entregue": {
+   "hash": "03ae62726f9323aa89bd59246ec74e844de06e1dcdb7389bd9d9f21887c150f2",
+   "casas": 1
+  },
+  "T1_nulos": {
+   "hash": "62cc4db1a7d3444f5a1a18dcdfe1946043c3dcbfecdf728ecf03f9a683a302f8",
+   "casas": 0
+  },
+  "T2_duplicadas": {
+   "hash": "fd3fff7c9e9f0da60b9524d115db8fa0301b9c395a89f21afc1974ade9606bd4",
+   "casas": 0
+  },
+  "T2_estados": {
+   "hash": "7fa3096f8cc967bf7678bbe10639196757a585e20f2992962f21187ffadd9188",
+   "casas": 0
+  },
+  "T2_teste": {
+   "hash": "4e10ccd62e6e456e46350628a1bf203b2b34c8c791187b281fb4465af38c3467",
+   "casas": 0
+  },
+  "T2_2018": {
+   "hash": "b214e325c3f49be0e5733d9839809710c89a56b72c8e1756e437a0de953c627a",
+   "casas": 0
+  },
+  "T2_faturamento": {
+   "hash": "0537c437f1d8d27af75392e2c85d61c966eaadd7be2bbddc55d3460db16f1de4",
+   "casas": 0
+  },
+  "T2_planilha": {
+   "hash": "a35a4f17c7ef353420776933c0147663cea8a02d11eb1246451f2084598d8f29",
+   "casas": 0
+  },
+  "T3_pedidos_bf": {
+   "hash": "9361d7864bdf210591b0a592c6dc5d08d15810c63e8280c79d647e35147f2fc1",
+   "casas": 0
+  },
+  "T3_clientes_sp": {
+   "hash": "647669980f8274340f5779e512e8ac117d6c4633f148cf25c18378458061c125",
+   "casas": 0
+  },
+  "T3_ticket_sp": {
+   "hash": "bd1e5ca00d447824c73c2819ef28d074b8384163880acf7aa44b5beec1588a40",
+   "casas": 2
+  },
+  "T3_vezes": {
+   "hash": "fe95fa04d22168ac8ab4a6e7751643c1c686cb4576eedc764d1c12ca99014e37",
+   "casas": 1
+  },
+  "T4_pct": {
+   "hash": "91514dd6bfe6bb21524fca55fec873382a9c7f89b66d546deebfaa1bd908ec65",
+   "casas": 1
+  },
+  "T4_pior_estado": {
+   "hash": "c1812e92a85e9f31f3327780bbf8ffbe0c25cfd7c8c7bdc196135ee3895ad0b1",
+   "casas": 0
+  },
+  "T4_se": {
+   "hash": "4b866cbe505a69fd64f9c057830f61596af72d174b5e57e0145676b687c45fd1",
+   "casas": 1
+  },
+  "T4_dias": {
+   "hash": "094e6d9d06a15e7d0d773f9c2f4c2049e5fd82cee4940a09720391a89b424a71",
+   "casas": 1
+  },
+  "T4_mes": {
+   "hash": "40db78f98301f568d3bfa4453609c7e4b2752122a4ae7ab207411ace62e3a293",
+   "casas": 0
+  },
+  "T5_nota_media": {
+   "hash": "9c4d781239e86341ed6f7abc879cfbda6c09582f026f159ff4c2ce1598a30dd7",
+   "casas": 2
+  },
+  "T5_pior_categoria": {
+   "hash": "6887c19e81a8f115b0ba88708d352486b84929058472f57e100f8ab5596baf0e",
+   "casas": 0
+  },
+  "T5_linhas_extra": {
+   "hash": "0bb841e673c0482732ff5a19b8d10056f3a54d672af7ce24bcb8e7af2df71518",
+   "casas": 0
+  },
+  "T5_multiplas": {
+   "hash": "88ab5e90cbb6497777b9dc99a04ae5b0e1209f43c94703db5956d622790cc70f",
+   "casas": 0
+  },
+  "T6_diferenca": {
+   "hash": "fe932e169f49d07a40ba995d908326b1a78acd0e38a83f2cc74f8ad75d258ad4",
+   "casas": 2
+  }
+ }
+}
